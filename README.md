@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D03AQG19SClSzJH9A/profile-displayphoto-shrink_800_800/0/1695863670893?e=2147483647&v=beta&t=DfeX4THEBxsFag4Rv0Bf-68EUm-iHtID4_4zp3yJC3o" style="width: 100%; height: 150px;">
+<img src="https://media.licdn.com/dms/image/D4D03AQG19SClSzJH9A/profile-displayphoto-shrink_800_800/0/1695863670893?e=2147483647&v=beta&t=DfeX4THEBxsFag4Rv0Bf-68EUm-iHtID4_4zp3yJC3o" style="width: 100%; height: 50rem;">
 
 # Almayo Mekonen
 I'm Almayo, a dedicated Full Stack Developer with a strong passion for creating innovative applications. My expertise lies in the MERN (MongoDB, Express.js, React.js, Node.js) stack, enabling me to seamlessly design and implement robust solutions.

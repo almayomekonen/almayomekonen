@@ -1,4 +1,4 @@
-<img src="[https://photos.google.com/photo/AF1QipPn3-HJbdZ6nz43nfrNR7pdB3Ggd_gcgCjzgRA1](https://photos.google.com/photo/AF1QipPn3-HJbdZ6nz43nfrNR7pdB3Ggd_gcgCjzgRA1)" style="width: 100%; height: 50rem;">
+<img src="[[https://photos.google.com/photo/AF1QipPn3-HJbdZ6nz43nfrNR7pdB3Ggd_gcgCjzgRA1](https://photos.google.com/photo/AF1QipPn3-HJbdZ6nz43nfrNR7pdB3Ggd_gcgCjzgRA1)](https://github.com/almayomekonen/almayomekonen/blob/main/almayo.jpg?raw=true)" style="width: 100%; height: 50rem;">
 
 # Almayo Mekonen
 I'm Almayo, a dedicated

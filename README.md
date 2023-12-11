@@ -1,4 +1,4 @@
-<img src="https://github.com/almayomekonen/almayomekonen/blob/main/almayo.png" style="width: 100%; height: 20rem;">
+<img src="https://github.com/almayomekonen/almayomekonen/blob/main/almayo.png" style="width: 90%; height: 20rem;">
 
 # Almayo Mekonen
 I'm Almayo, a dedicated

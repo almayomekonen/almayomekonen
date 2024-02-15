@@ -6,13 +6,12 @@ Full Stack Developer with a strong passion for creating innovative applications.
 With a commitment to excellence, I thrive on transforming ideas into polished, user-friendly applications. My proficiency extends across the entire development lifecycle, from conceptualization to deployment, ensuring a seamless and efficient process.
 
 ## Skills and proficiency 
-* 💻 HTML, CSS, JS
+* [💻 HTML, CSS, JS
 * ⚛️ React
 * 🌐 Node Js
 * <img width="29" src='https://cdn.iconscout.com/icon/free/png-512/free-mongodb-5-1175140.png?f=webp&w=512' alt='mongo'>  mongoDB 
-
 * <img width="29px" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png' alt='aws'> AWS
-* <img width="29" src='https://cdn.iconscout.com/icon/free/png-512/free-heroku-11-1175214.png?f=webp&w=512' alt='heroku'> Heroku
+* <img width="29" src='https://cdn.iconscout.com/icon/free/png-512/free-heroku-11-1175214.png?f=webp&w=512' alt='heroku'> Heroku]
 
 
 

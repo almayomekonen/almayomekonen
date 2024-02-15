@@ -10,7 +10,7 @@ With a commitment to excellence, I thrive on transforming ideas into polished, u
 * ⚛️ React
 * 🌐 NODE JS
 * <img width="29px" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png' alt='aws'> AWS
-* <img src='https://w7.pngwing.com/pngs/629/503/png-transparent-heroku-plain-wordmark-logo-icon-thumbnail.png' alt='heroku'> Heroku
+* <img src='https://banner2.cleanpng.com/20180825/cka/kisspng-logo-node-js-heroku-scalable-vector-graphics-font-mode-analytics-status-change-notifications-5b80db51a7dac3.9216631615351714096875.jpg' alt='heroku'> Heroku
 
 
 - 🔭 I’m currently working on my Travel Track app 😀 
